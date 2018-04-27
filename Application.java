@@ -1,4 +1,4 @@
 main{
-System.out.println("Ce se intampla?");
+System.out.println("Din message!");
 }
 
